@@ -79,5 +79,7 @@ The Question-Claim-Evidence (QCE) framework is a structured approach to organizi
 Conducting a literature review is both an art and a science. It requires systematic rigor, critical thinking, and effective synthesis. By following these insights and developing a structured workflow, you can transform the literature review from a daunting task into a valuable foundation for your research. Remember: a literature review is not just about demonstrating what you've read—it's about showing how you think, where your research fits, and why it matters.
 
 ---
+## Contributing
+This is a living resource that benefits from community contributions. We welcome improvements, additions, and corrections from researchers and students who use this guide.
 
 *This guide synthesizes best practices from research methodology literature and practical experience. Adapt these strategies to your specific field, institution, and research context.*
