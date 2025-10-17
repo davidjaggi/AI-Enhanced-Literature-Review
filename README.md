@@ -73,7 +73,7 @@ The Question-Claim-Evidence (QCE) framework is a structured approach to organizi
 
 ## Other Sources
 [ChatGPT Prompts for Academic Writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing)
-
+[Prompts for AI to analyze Academic Articles - Obsidian Forum](https://forum.obsidian.md/t/prompts-for-artificial-intelligence-to-analyze-academic-articles/80709)
 ## Conclusion
 
 Conducting a literature review is both an art and a science. It requires systematic rigor, critical thinking, and effective synthesis. By following these insights and developing a structured workflow, you can transform the literature review from a daunting task into a valuable foundation for your research. Remember: a literature review is not just about demonstrating what you've read—it's about showing how you think, where your research fits, and why it matters.
