@@ -29,6 +29,9 @@ Connected Papers is a visual tool that helps researchers find and explore academ
 Elicit is an AI research assistant that helps you quickly locate papers, analyze and organize multiple papers, summarize evidence, explore research questions, and more. It streamlines the process of organizing papers and can produce summaries of top-cited papers on a specific research question.
 [Elicit: The AI Research Assistant](https://elicit.org/)
 
+### NotebookLM
+NotebookLM is a free AI-powered research tool developed by Google that allows you to upload documents (PDFs, Google Docs, websites, videos, etc.) and interact with them through conversational AI to generate summaries, ask questions, and create study guides. [NotebookLM](https://notebooklm.google.com/)
+
 ### Perplexity.ai
 Perplexity AI is a chat tool that acts as a powerful search engine. When you input a question, the model searches the internet to provide an answer, along with the source of the information. It can be used to find relevant literature and answer research-related questions.
 [Perplexity AI](https://www.perplexity.ai/)
