@@ -1,4 +1,4 @@
-# AI Enhanced Literature Review
+# AI Enhanced Research
 
 ## Introduction
 
